@@ -6,7 +6,6 @@ Bookmarklets for hacking game such as Prodigy, Blooket, Quizizz, Quizlet, etc.
 * ### Prodigy
 * ### Quizlet
 * ### Quizizz
-* ### Kahoot
 * ### Edpuzzle
 
 # ❓ How To Install
