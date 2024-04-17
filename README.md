@@ -16,3 +16,6 @@ Bookmarklets for hacking game such as Prodigy, Blooket, Quizizz, Quizlet, etc.
 
 # 📖 Contents
 ## coming soon :)
+
+# ⭐ Please Star this Project
+It took 3 days to rebuild the whole html file directory into the repo. Please star this project if you found it helpful, and please contribute to updating scripts and making old ones work if you can.
