@@ -7,6 +7,8 @@ Bookmarklets for hacking game such as Prodigy, Blooket, Quizizz, Quizlet, etc.
 * ### Quizlet
 * ### Quizizz
 * ### Edpuzzle
+* ### I-ready
+* ### Quizlet
 
 # ❓ How To Install
 * 1: Grab the Hacks.html from the [latest release](https://github.com/renzz00/ultimate-bookmarklet-hacks/releases/latest)
