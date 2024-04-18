@@ -1,5 +1,6 @@
 # Ultimate Bookmarklet Hacks
 Bookmarklets for hacking game such as Prodigy, Blooket, Quizizz, Quizlet, etc.
+### PLEASE READ THE WARNING [HERE.](https://github.com/renzz00/ultimate-bookmarklet-hacks/blob/main/WARNING.md)
 
 # 🎮 Games Supported
 * ### Blooket
