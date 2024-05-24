@@ -3,7 +3,7 @@ It took 3 days to rebuild the whole html file directory into the repo. Please st
 
 ### Thank you to the stargazers below ❤:
 
-[![Stargazers repo roster for @renzz00/ultimate-bookmarklet-hacks](https://reporoster.com/stars/dark/renzz00/ultimate-bookmarklet-hacks)](https://github.com/renzz00/ultimate-bookmarklet-hacks/stargazers)
+[![Stargazers repo roster for @renzz00/ultimate-bookmarklet-hacks](https://reporoster.com/stars/dark/notext/renzz00/ultimate-bookmarklet-hacks)](https://github.com/renzz00/ultimate-bookmarklet-hacks/stargazers)
 
 # Ultimate Bookmarklet Hacks
 Bookmarklets for hacking game such as Prodigy, Blooket, Quizizz, Quizlet, etc.
