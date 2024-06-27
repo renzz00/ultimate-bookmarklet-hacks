@@ -1,1 +1,1 @@
-javascript: (function () {var value = prompt("Enter High Score Below!", "Enter Here"); alert("Please refresh for the new high score to show!"); localStorage.setItem("doodle-gnomes-high-score", value) })();
+javascript: (function () {var value = prompt("Enter High Score Below!", "Enter Here"); alert("Please press OK to refresh and show your new high score!"); localStorage.setItem("doodle-gnomes-high-score", value), location.reload() })();
