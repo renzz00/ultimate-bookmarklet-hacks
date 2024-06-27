@@ -23,4 +23,6 @@ Bookmarklets for hacking game such as Prodigy, Blooket, Quizizz, Quizlet, etc.
 * 2: Go into your browser and import this .html file into your bookmarks bar.
 * 3: Inside of the Imported folder on your bookmarks bar, drag the Hacks folder onto your bookmarks bar. (If you dont see a new "Imported" folder then just check for the "Hacks" folder, and if its there you are done!)
 * 4: DONE!
-w
+
+# 🐱‍💻 Proxys
+### If you want to learn more about proxys and how they work with Interstellar, check [ABOUT_PROXYS.md](https://github.com/renzz00/ultimate-bookmarklet-hacks/blob/main/ABOUT-PROXYS.md)
