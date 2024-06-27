@@ -1,1 +1,1 @@
-javascript: (function () {var value = prompt("Enter High Score Below!", "Enter Here"); alert("Please refresh for the new high score to show!"); localStorage.setItem("doodle-july4th19-score", value), location.reload() })();
+javascript: (function () {var value = prompt("Enter High Score Below!", "Enter Here"); alert("Please click OK to refresh the page and set your high score!"); localStorage.setItem("doodle-july4th19-score", value), location.reload() })();
